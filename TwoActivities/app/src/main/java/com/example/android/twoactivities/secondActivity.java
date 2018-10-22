@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class secondActivity extends AppCompatActivity {
 
-    private static final String LOG_TAG = "main activity tag";
+    private static final String LOG_TAG = "second activity tag";
     public static final String EXTRA_MESSAGE = "com.example.android.twoactivities.extra.REPLY";
     private EditText editText;
 
@@ -28,6 +28,42 @@ public class secondActivity extends AppCompatActivity {
         editText = (EditText)findViewById(R.id.editText);
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.d(LOG_TAG, "onStart");
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.d(LOG_TAG, "onPause");
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        Log.d(LOG_TAG, "onRestart");
+    }
+
+    @Override
+    protected void onPostResume() {
+        super.onPostResume();
+        Log.d(LOG_TAG, "onResume");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Log.d(LOG_TAG, "onStop");
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d(LOG_TAG, "onDestroy");
+    }
+
     public void Reply(View view) {
         Log.d(LOG_TAG, "button clicked");
 
@@ -35,6 +71,7 @@ public class secondActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
         setResult(RESULT_OK, intent);
+        Log.d(LOG_TAG, "End SecondActivity");
         finish();
     }
 }

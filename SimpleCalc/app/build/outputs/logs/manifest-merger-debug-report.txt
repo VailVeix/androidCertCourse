@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96e7a89cb2c1fd9ef0e4c0fa2c2d79db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4cf0bc3c5945dd17298cda42ed02043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\98010e6a396294b84b3a6099f406ed7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\890e5e5c1cf83d125e5aa57c0b386cc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4b6b2a1c85ec9356766f09a64a8ef60f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e715425412a9ef09b845fa0d6159578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\33ab03c0e22aa0554881af3d243c0b22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\966941c92f10911687cec2bbb8c6218b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f80d9a318f0f8dc66a1f495753512f10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87e0ff78ec6ac232469c54eafd7ccc3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9f093e4c0ab7555e5dc316ca8e957838\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96e7a89cb2c1fd9ef0e4c0fa2c2d79db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96e7a89cb2c1fd9ef0e4c0fa2c2d79db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4cf0bc3c5945dd17298cda42ed02043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4cf0bc3c5945dd17298cda42ed02043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\98010e6a396294b84b3a6099f406ed7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\98010e6a396294b84b3a6099f406ed7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\890e5e5c1cf83d125e5aa57c0b386cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\890e5e5c1cf83d125e5aa57c0b386cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4b6b2a1c85ec9356766f09a64a8ef60f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4b6b2a1c85ec9356766f09a64a8ef60f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e715425412a9ef09b845fa0d6159578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e715425412a9ef09b845fa0d6159578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\33ab03c0e22aa0554881af3d243c0b22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\33ab03c0e22aa0554881af3d243c0b22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\966941c92f10911687cec2bbb8c6218b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\966941c92f10911687cec2bbb8c6218b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f80d9a318f0f8dc66a1f495753512f10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f80d9a318f0f8dc66a1f495753512f10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87e0ff78ec6ac232469c54eafd7ccc3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87e0ff78ec6ac232469c54eafd7ccc3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9f093e4c0ab7555e5dc316ca8e957838\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9f093e4c0ab7555e5dc316ca8e957838\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vail\Documents\GitHub\androidCertCourse\SimpleCalc\app\src\main\AndroidManifest.xml

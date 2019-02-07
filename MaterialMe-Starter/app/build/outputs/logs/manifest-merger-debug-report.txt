@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4614e02e4f226805b9a066da9d3229e9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\151ef19a1f729b5e777bd5c9741e3e05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5f8944bf6ba44e580eb883b33e99ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\559824bedb622a5db4fbd70d2f10d7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1394b093e1e72b0aacf801bf877b9ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fffc4449b13d0f860d3adc752097d3ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\18bca2a1166aff4c08e6a773f1d1e774\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b79cede2fc1e701d5c83eea2a1bbe05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3883d12dee487ce315068820a70138\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a473826222851a148ce1e8802a8d24b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c26943e1c461db656052e06452fd9933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\eee9ab219f3d775df8ee906bee371fd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e856af5fe507622df2954cdb8706e71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ab7ec246d5baa42f3e79008c4dfdcf51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9e6037a4fd2854ce1ac92aa2c591f180\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a53b3143f75ca1cd2ff3894a679b1f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0da631890bca1e2d97707fb44c0f77f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\209a449587a3740d0cf516abb570a61c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4614e02e4f226805b9a066da9d3229e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4614e02e4f226805b9a066da9d3229e9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4614e02e4f226805b9a066da9d3229e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4614e02e4f226805b9a066da9d3229e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\151ef19a1f729b5e777bd5c9741e3e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\151ef19a1f729b5e777bd5c9741e3e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5f8944bf6ba44e580eb883b33e99ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5f8944bf6ba44e580eb883b33e99ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\559824bedb622a5db4fbd70d2f10d7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\559824bedb622a5db4fbd70d2f10d7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1394b093e1e72b0aacf801bf877b9ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1394b093e1e72b0aacf801bf877b9ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fffc4449b13d0f860d3adc752097d3ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fffc4449b13d0f860d3adc752097d3ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\18bca2a1166aff4c08e6a773f1d1e774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\18bca2a1166aff4c08e6a773f1d1e774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b79cede2fc1e701d5c83eea2a1bbe05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b79cede2fc1e701d5c83eea2a1bbe05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3883d12dee487ce315068820a70138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3883d12dee487ce315068820a70138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a473826222851a148ce1e8802a8d24b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a473826222851a148ce1e8802a8d24b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c26943e1c461db656052e06452fd9933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c26943e1c461db656052e06452fd9933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\eee9ab219f3d775df8ee906bee371fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\eee9ab219f3d775df8ee906bee371fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e856af5fe507622df2954cdb8706e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e856af5fe507622df2954cdb8706e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ab7ec246d5baa42f3e79008c4dfdcf51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ab7ec246d5baa42f3e79008c4dfdcf51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9e6037a4fd2854ce1ac92aa2c591f180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9e6037a4fd2854ce1ac92aa2c591f180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a53b3143f75ca1cd2ff3894a679b1f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a53b3143f75ca1cd2ff3894a679b1f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0da631890bca1e2d97707fb44c0f77f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0da631890bca1e2d97707fb44c0f77f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\209a449587a3740d0cf516abb570a61c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VailVeix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\209a449587a3740d0cf516abb570a61c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VailVeix\Documents\GitHub\androidCertCourse\MaterialMe-Starter\app\src\main\AndroidManifest.xml

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\VailVeix\\Documents\\GitHub\\androidCertCourse\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VailVeix\\Documents\\GitHub\\androidCertCourse\\MaterialMe-Starter\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "50,36,22,16,18,20,19,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2342,1734,1333,615,719,841,770,666",
+                        "endLines": "62,48,34,16,18,20,19,17",
+                        "endColumns": "12,19,19,49,49,488,69,51",
+                        "endOffsets": "2874,2334,1726,660,764,1325,835,713"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,580,1173,1559,1609,1659,2148,2218",
+                        "endLines": "14,27,40,41,42,43,44,45",
+                        "endColumns": "12,19,19,49,49,488,69,51",
+                        "endOffsets": "575,1168,1554,1604,1654,2143,2213,2265"
+                    }
+                }
+            ]
+        }
+    ]
+}
